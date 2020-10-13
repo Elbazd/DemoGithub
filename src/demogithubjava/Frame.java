@@ -11,6 +11,7 @@ package demogithubjava;
  */
 public class Frame extends javax.swing.JFrame {
  // DE1
+    //DE2
     
     /**
      * Creates new form Démo
